@@ -1,7 +1,7 @@
 nodejs
 ======
 
-Node js sample codes for beginners. We can get output of every nodejs codes using terminal. like<br>
+Node js sample codes for beginners and already who knows Node js. We can get output of every nodejs codes using terminal. like<br>
 $ node mysql.js
 
 
